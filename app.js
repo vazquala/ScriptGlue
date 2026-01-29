@@ -31,4 +31,3 @@ const facts = [name, luckyOutput];
 
 const statusMessageSpan = document.getElementById("statusMessage");
 statusMessageSpan.innerText = facts.toString()
-
